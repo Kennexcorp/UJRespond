@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1096796455758",
+    "firebase_url": "https://uj-respond.firebaseio.com",
+    "project_id": "uj-respond",
+    "storage_bucket": "uj-respond.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096796455758:android:508905802c429d51",
+        "android_client_info": {
+          "package_name": "com.example.kennexcorp.ujrespond"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096796455758-1d9f5n4lkgk36o04i6eiaetj5b3aulbp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kennexcorp.ujrespond",
+            "certificate_hash": "8da35883f47e66ac0b4ccab7ef4a7dd6207f82ed"
+          }
+        },
+        {
+          "client_id": "1096796455758-v2oqquhe8ufuukf7e93t1tc5cpirkk2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8EuJXmCwEpbh2VHWKeOOHdSKzBdRKpCk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096796455758-v2oqquhe8ufuukf7e93t1tc5cpirkk2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/ic_menu_person"
+            android:title="Profile" />
+        <item
+            android:id="@+id/notifications"
+            android:icon="@drawable/ic_menu_alert"
+            android:title="Notifications" />
+        <item
+            android:id="@+id/safety_tips"
+            android:icon="@drawable/ic_menu_tips"
+            android:title="Safety Tips" />
+
+    </group>
+
+    <item android:title="Others">
+        <menu>
+            <item
+                android:id="@+id/hotlines"
+                android:icon="@drawable/ic_menu_hotline"
+                android:title="Hot Lines" />
+            <item
+                android:id="@+id/request_complaints"
+                android:icon="@drawable/ic_menu_request"
+                android:title="Request &amp; Complaints" />
+
+            <item
+                android:id="@+id/about_us"
+                android:icon="@drawable/ic_action_about"
+                android:title="About" />
+
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/ic_menu_logout"
+                android:title="Logout" />
+
+        </menu>
+    </item>
+
+</menu>
